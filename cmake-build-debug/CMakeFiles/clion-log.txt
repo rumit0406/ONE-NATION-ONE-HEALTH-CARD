@@ -1,0 +1,4 @@
+"E:\CLion 2020.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\college stuff\ds project\ONE NATION ONE HEALTH CARD"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/college stuff/ds project/ONE NATION ONE HEALTH CARD/cmake-build-debug

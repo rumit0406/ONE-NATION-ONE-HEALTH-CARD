@@ -1,0 +1,3 @@
+D:/college stuff/ds project/ONE NATION ONE HEALTH CARD/cmake-build-debug/CMakeFiles/ONE_NATION_ONE_HEALTH_CARD.dir
+D:/college stuff/ds project/ONE NATION ONE HEALTH CARD/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/college stuff/ds project/ONE NATION ONE HEALTH CARD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
